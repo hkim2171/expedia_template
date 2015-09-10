@@ -1,3 +1,3 @@
 # expedia_template
 Duplicated an email template from Expedia.
-![Alt text](http://desktop/expedia1.jpg "Top Screenshot")
+![Alt text](http://s10.postimg.org/9l86ruwcp/expedia1.png "Top Screenshot")
